@@ -1,0 +1,25 @@
+html {
+    border-radius: 10px;
+}
+
+body {
+    width: 160px;
+    height: 80px;
+    padding: 10px;
+    background: #820AD1;
+    border-radius: 10px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h4 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+#button-tray {
+    display: flex;
+    column-gap: 10px;
+}
